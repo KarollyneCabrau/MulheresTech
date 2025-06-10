@@ -63,6 +63,11 @@ ul{
   padding-left: 0px;
 }
 
+nav {
+  display: flex;
+  justify-content: center;
+}
+
 a{
   text-decoration: none;
   color: #ff66b2; 
