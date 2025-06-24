@@ -16,9 +16,7 @@ Durante o curso, tive minha primeira experiência com desenvolvimento web e dei 
 
 ## 🌟 Destaques do curso
 
-- Conteúdos apresentados de forma leve, acessível e bem explicada
-- Didática voltada para iniciantes
-- Aprendizado prático e motivador
+- Conteúdos apresentados de forma leve, acessível e bem explicada ♥
 
 ## 💻 Tecnologias e ferramentas utilizadas
 
