@@ -29,7 +29,7 @@ Durante o curso, tive minha primeira experiência com desenvolvimento web e dei 
 
 ## 📄 Certificação
 
-Curso com carga horária de **16 horas**. Certificado disponível na aba *imagens* ou anexado a este repositório.
+Curso com carga horária de **16 horas**. 
 
 ## 🧑‍💻 Autora
 
